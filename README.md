@@ -2,4 +2,4 @@
 
 Official downloads for the DREXKO PRO configuration app.
 
-Download the latest installer from **[Releases](https://github.com/mojotuning/drexko-pro/releases/latest)**. Installed copies update themselves from Settings → Updates.
+**Download:** [DREXKO_PRO_Setup (latest)](downloads/) — run the installer once; after that DREXKO PRO updates itself from **Settings → Updates**.
