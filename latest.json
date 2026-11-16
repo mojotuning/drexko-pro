@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.2",
-    "notes":  "Overlay: sticks limpios y botones programados como tecla",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.2.exe",
-    "sha256":  "5366d96371538558f3b6f4a84a59ead8590a530f9baa6510f560c65bcb45741c",
-    "size":  3525294
+    "version":  "0.10.3",
+    "notes":  "Luces: efecto y brillo. Corrección del perfil activo",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.3.exe",
+    "sha256":  "e165a57f434f50925b1fb5476a8302db7b6b6c683841113bde5bba81510fd96d",
+    "size":  3525901
 }
