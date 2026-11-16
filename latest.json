@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.4",
-    "notes":  "Lee el perfil activo del control",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.4.exe",
-    "sha256":  "41856720d3f1e3f6f0abde30c472bee7649245e9e9ec51074555eccd7939a217",
-    "size":  3524096
+    "version":  "0.10.5",
+    "notes":  "Versión correcta en la portada y perfil activo real",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.5.exe",
+    "sha256":  "5cee7673a0b3cb7e8d6169312db8f53ac90fc851b8e17a0b4fc3fe70e20fff4f",
+    "size":  3524813
 }
