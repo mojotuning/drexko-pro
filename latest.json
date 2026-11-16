@@ -1,7 +1,7 @@
 {
-  "version": "0.8",
-  "notes": "- Update button: Settings > Updates checks, downloads and installs new versions by itself\n- OBS overlay (Settings > OBS overlay)\n- Runs in the tray, Start with Windows option\n- Single DREXKO_PRO.exe, no Python needed",
-  "setup": "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.8.exe",
-  "sha256": "9c626d79f43d6e6f946b93392cc1128e47fb9f1f4c28167e925b8e6be96611d1",
-  "size": 2814442
+    "version":  "0.8.1",
+    "notes":  "Prueba del sistema de actualizacion",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.8.1.exe",
+    "sha256":  "4aa127384178bfe0013c6aa82a25770b868beb32e2aa594a14bc89611daa1448",
+    "size":  2812708
 }
