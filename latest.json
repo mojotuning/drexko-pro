@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.6",
-    "notes":  "Cambio de perfil real y cambio automático por juego",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.6.exe",
-    "sha256":  "27262c427095786e8b7e9c790e3dcc901e55a611258f6fa88a45547e4d1ef65d",
-    "size":  3527134
+    "version":  "0.10.7",
+    "notes":  "Tarantula: 4 perfiles",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.7.exe",
+    "sha256":  "ff76d3aefa44d32f3fab65448f1512dfe4ba71a72a89ba0b684646a5ec2e04c8",
+    "size":  3526883
 }
