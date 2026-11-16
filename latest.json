@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.5",
-    "notes":  "Versión correcta en la portada y perfil activo real",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.5.exe",
-    "sha256":  "5cee7673a0b3cb7e8d6169312db8f53ac90fc851b8e17a0b4fc3fe70e20fff4f",
-    "size":  3524813
+    "version":  "0.10.6",
+    "notes":  "Cambio de perfil real y cambio automático por juego",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.6.exe",
+    "sha256":  "27262c427095786e8b7e9c790e3dcc901e55a611258f6fa88a45547e4d1ef65d",
+    "size":  3527134
 }
