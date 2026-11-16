@@ -1,7 +1,7 @@
 {
-    "version":  "0.8.1",
-    "notes":  "Prueba del sistema de actualizacion",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.8.1.exe",
-    "sha256":  "4aa127384178bfe0013c6aa82a25770b868beb32e2aa594a14bc89611daa1448",
-    "size":  2812708
+    "version":  "0.9",
+    "notes":  "Overlay nuevo y update mejorado",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.9.exe",
+    "sha256":  "4cb3f6464f54edc3517f51b3ebc26fae7927c45fc6b4d13fe05b52c4ef15de28",
+    "size":  2879438
 }
