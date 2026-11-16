@@ -1,7 +1,7 @@
 {
-    "version":  "0.10",
-    "notes":  "Overlay con controles reales PS4/PS5/Tarantula, colores de casco y logo DREXKO",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.exe",
-    "sha256":  "9e6a718a6512e51f58a905d10ffca268ec427a05ac3bd481443faf5ded3c3d2d",
-    "size":  4376426
+    "version":  "0.10.2",
+    "notes":  "Overlay: sticks limpios y botones programados como tecla",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.2.exe",
+    "sha256":  "5366d96371538558f3b6f4a84a59ead8590a530f9baa6510f560c65bcb45741c",
+    "size":  3525294
 }
