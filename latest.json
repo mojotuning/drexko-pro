@@ -1,7 +1,7 @@
 {
-    "version":  "0.9",
-    "notes":  "Overlay nuevo y update mejorado",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.9.exe",
-    "sha256":  "4cb3f6464f54edc3517f51b3ebc26fae7927c45fc6b4d13fe05b52c4ef15de28",
-    "size":  2879438
+    "version":  "0.10",
+    "notes":  "Overlay con controles reales PS4/PS5/Tarantula, colores de casco y logo DREXKO",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.exe",
+    "sha256":  "9e6a718a6512e51f58a905d10ffca268ec427a05ac3bd481443faf5ded3c3d2d",
+    "size":  4376426
 }
