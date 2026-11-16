@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.8",
-    "notes":  "Página Performance: prueba de rendimiento y zona muerta mínima",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.8.exe",
-    "sha256":  "1bac450a621f98718c6e6220d3f4de3308f6345be39ea6a39a5ff67a65939681",
-    "size":  3535475
+    "version":  "0.10.9",
+    "notes":  "Performance: recorrido del stick, zona muerta del juego, gatillos de recorrido corto y chequeo de la PC",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.9.exe",
+    "sha256":  "cc26da33bb2a96d17e5e64c9c9d5c2b1c51be2702c20c26a51448fea1b3c0f5c",
+    "size":  3628671
 }
