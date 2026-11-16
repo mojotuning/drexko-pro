@@ -2,7 +2,7 @@
 
 # DREXKO PRO — controller configuration app for Windows
 
-**DREXKO PRO** is a free Windows app to configure **DREXKO** controllers and the **GameSir Tarantula 8K PC** controller: 8000 Hz polling, stick deadzones and response curves, triggers, button remapping (also to keyboard and mouse), RGB lighting, 5 onboard profiles, automatic profile switching per game, and a live **OBS overlay** for streaming.
+**DREXKO PRO** is a free Windows app to configure **DREXKO** controllers and the **GameSir Tarantula 8K PC** controller: 8000 Hz polling, stick deadzones and response curves, triggers, button remapping (also to keyboard and mouse), RGB lighting, onboard profiles, automatic profile switching per game, and a live **OBS overlay** for streaming.
 
 **[⬇ Download the latest installer](downloads/)** — open the `downloads` folder and get the newest `DREXKO_PRO_Setup_x.x.x.exe` (the latest version is listed in [`latest.json`](latest.json)). Install it once; after that DREXKO PRO updates itself from **Settings → Updates**.
 
@@ -17,7 +17,7 @@
 - **Triggers** – deadzones and curve
 - **Button remapping** – any button to another button, a keyboard key or a mouse click, including the back buttons (L4, R4, C1–C4, T1–T3)
 - **Lighting** – effect (fixed, breathing, rainbow, off), color and brightness for each profile
-- **5 onboard profiles** stored in the controller, plus an unlimited profile library saved on your PC
+- **Onboard profiles** stored in the controller (4 on the Tarantula 8K), plus an unlimited profile library saved on your PC
 - **Auto-switch by game** – the controller switches profile when your game window is in front
 - **OBS overlay** – live buttons, sticks and triggers on stream with PS4, PS5 or Tarantula 8K controller art and the DREXKO logo. Buttons mapped to keyboard keys also light up
 - **Monitor, calibration and tests** – live input view, real polling measurement, button timing
@@ -55,7 +55,7 @@ In DREXKO PRO open **Settings → OBS overlay**, choose the controller and the g
 
 ## Español
 
-**DREXKO PRO** es una app gratis para Windows que configura los controles **DREXKO** y el **GameSir Tarantula 8K PC**: polling de 8000 Hz, zonas muertas y curvas de los sticks, gatillos, remapeo de botones (también a teclado y ratón), luces RGB, 5 perfiles en el control, cambio automático de perfil por juego y **overlay para OBS** en vivo.
+**DREXKO PRO** es una app gratis para Windows que configura los controles **DREXKO** y el **GameSir Tarantula 8K PC**: polling de 8000 Hz, zonas muertas y curvas de los sticks, gatillos, remapeo de botones (también a teclado y ratón), luces RGB, perfiles en el control, cambio automático de perfil por juego y **overlay para OBS** en vivo.
 
 **[⬇ Descargar el instalador](downloads/)** — abre la carpeta `downloads` y baja el `DREXKO_PRO_Setup_x.x.x.exe` más nuevo (la versión actual está en [`latest.json`](latest.json)). Se instala una sola vez; después DREXKO PRO se actualiza solo desde **Settings → Updates**.
 
@@ -65,7 +65,7 @@ In DREXKO PRO open **Settings → OBS overlay**, choose the controller and the g
 - **Gatillos**: zonas muertas y curva
 - **Remapeo de botones** a otro botón, a una tecla o a un clic del ratón, incluidos los botones traseros (L4, R4, C1–C4, T1–T3)
 - **Luces**: efecto (fijo, respiración, arcoíris, apagado), color y brillo por perfil
-- **5 perfiles** guardados en el control y biblioteca ilimitada de perfiles en tu PC
+- **Perfiles** guardados en el control (4 en el Tarantula 8K) y biblioteca ilimitada de perfiles en tu PC
 - **Cambio automático de perfil por juego**
 - **Overlay para OBS** con el PS4, el PS5 o el Tarantula 8K y el logo DREXKO; los botones programados como tecla también se iluminan
 - **Monitor, calibración y pruebas**, y **respaldo** completo de la memoria del control
