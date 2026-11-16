@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.3",
-    "notes":  "Luces: efecto y brillo. Corrección del perfil activo",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.3.exe",
-    "sha256":  "e165a57f434f50925b1fb5476a8302db7b6b6c683841113bde5bba81510fd96d",
-    "size":  3525901
+    "version":  "0.10.4",
+    "notes":  "Lee el perfil activo del control",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.4.exe",
+    "sha256":  "41856720d3f1e3f6f0abde30c472bee7649245e9e9ec51074555eccd7939a217",
+    "size":  3524096
 }
