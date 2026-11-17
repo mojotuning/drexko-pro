@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.12",
-    "notes":  "Curvas: Aim Assist, High Sens, punto en vivo, mapa de uso, prueba de puntería y explicación de bits",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.12.exe",
-    "sha256":  "453d300b1fb60336f3ce02cc8f1fbfb0e10ef4f1a3141902f2a54cec63486a17",
-    "size":  3632985
+    "version":  "0.10.13",
+    "notes":  "Prueba para confirmar la resolución real del stick",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.13.exe",
+    "sha256":  "0baf995feccbb1ee5cadf69960e8ddff8d9a1552153bb21927a9751681db6bc9",
+    "size":  3635856
 }
