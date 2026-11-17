@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.9",
-    "notes":  "Performance: recorrido del stick, zona muerta del juego, gatillos de recorrido corto y chequeo de la PC",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.9.exe",
-    "sha256":  "cc26da33bb2a96d17e5e64c9c9d5c2b1c51be2702c20c26a51448fea1b3c0f5c",
-    "size":  3628671
+    "version":  "0.10.10",
+    "notes":  "Performance: los cambios aplicados se ven en Sticks y Triggers",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.10.exe",
+    "sha256":  "4b741df79c76d8f6273f0838c871e2fe56e5c1bd3911e5afba1604eb70857225",
+    "size":  3626377
 }
