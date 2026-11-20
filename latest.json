@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.13",
-    "notes":  "Prueba para confirmar la resolución real del stick",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.10.13.exe",
-    "sha256":  "0baf995feccbb1ee5cadf69960e8ddff8d9a1552153bb21927a9751681db6bc9",
-    "size":  3635856
+    "version":  "0.11.0",
+    "notes":  "New: DREXKO PRO license. 7-day free trial, monthly or yearly plans, free for life with a DREXKO controller. One license, one PC.",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.11.0.exe",
+    "sha256":  "7111d6c44d8ab7253fde359e2c4ebbe94823542713af135ee3efa5829e6dc936",
+    "size":  3647696
 }
