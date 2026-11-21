@@ -1,7 +1,7 @@
 {
-    "version":  "0.11.0",
-    "notes":  "New: DREXKO PRO license. 7-day free trial, monthly or yearly plans, free for life with a DREXKO controller. One license, one PC.",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.11.0.exe",
-    "sha256":  "7111d6c44d8ab7253fde359e2c4ebbe94823542713af135ee3efa5829e6dc936",
-    "size":  3647696
+    "version":  "0.12.0",
+    "notes":  "New: optimization wizard, jitter history by USB port, keyboard key test, game deadzone library.",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.12.0.exe",
+    "sha256":  "05baf62cdb335e91646c7424af3580b07b9c157083211bfcb1342b8b5245106c",
+    "size":  3656617
 }
