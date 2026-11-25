@@ -1,6 +1,6 @@
 {
     "version":  "0.16.0",
-    "notes":  "Control 3D: gatillos, luz, botones, mapa de salud, asistente animado, overlay 3D para OBS, repeticion del snapback en camara lenta y zona muerta sobre el stick. Incluye monitor de partida, salud de sticks, chatter y pagina DREXKO 8K.",
+    "notes":  "Control 3D: gatillos, luz, botones, mapa de salud, asistente animado, overlay 3D para OBS, repeticion del snapback en camara lenta y zona muerta sobre el stick.",
     "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.16.0.exe",
     "sha256":  "91b9860486e47ab43392c947acf3a53ec4a1418ee1d83b957ee52c33a234eeb3",
     "size":  4107984
