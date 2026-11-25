@@ -1,7 +1,7 @@
 {
-    "version":  "0.12.0",
-    "notes":  "New: optimization wizard, jitter history by USB port, keyboard key test, game deadzone library.",
-    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.12.0.exe",
-    "sha256":  "05baf62cdb335e91646c7424af3580b07b9c157083211bfcb1342b8b5245106c",
-    "size":  3656617
+    "version":  "0.16.0",
+    "notes":  "Control 3D: gatillos, luz, botones, mapa de salud, asistente animado, overlay 3D para OBS, repeticion del snapback en camara lenta y zona muerta sobre el stick. Incluye monitor de partida, salud de sticks, chatter y pagina DREXKO 8K.",
+    "setup":  "https://raw.githubusercontent.com/mojotuning/drexko-pro/main/downloads/DREXKO_PRO_Setup_0.16.0.exe",
+    "sha256":  "91b9860486e47ab43392c947acf3a53ec4a1418ee1d83b957ee52c33a234eeb3",
+    "size":  4107984
 }
